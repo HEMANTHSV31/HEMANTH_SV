@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import UserDashboard from './components/UserDashboard';
-import NGODashboard from './components/NGODashboard';
+import DemoUserDashboard from './components/DemoUserDashboard';
+import DemoNGODashboard from './components/DemoNGODashboard';
 import './App.css';
 
 function App() {
@@ -45,7 +45,7 @@ function App() {
 
       {/* Main Content */}
       <main>
-        {currentView === 'user' ? <UserDashboard /> : <NGODashboard />}
+        {currentView === 'user' ? <DemoUserDashboard /> : <DemoNGODashboard />}
       </main>
 
       {/* Footer */}
@@ -58,7 +58,7 @@ function App() {
           <p className="text-gray-400">
             Making the world greener, one tree at a time. Built with React, Node.js, and MySQL.
           </p>
-          <div className="mt-4 text-sm text-gray-500">
+          <div className="mt-4 text-sm text-gray-400">
             © 2024 Tree Donation Platform. Built by Hemanth SV
           </div>
         </div>
