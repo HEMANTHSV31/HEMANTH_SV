@@ -1,115 +1,90 @@
-# 🧑‍💻 **Welcome to My GitHub Profile** 👋
-
-Hi there! I'm [Hemanth S V](https://www.linkedin.com/in/hemanth-s-v-2610b0329/), a passionate developer, competitive programmer, and a tech enthusiast. Welcome to my GitHub profile! Here you will find a collection of my coding projects, contributions, and some stats showcasing my journey in the world of programming.
-
----
-
-## 📊 **LeetCode Stats** 🧑‍💻
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Hemanth-SV)
-
-You can check out my LeetCode profile [here](https://leetcode.com/u/Hemanth-SV/).
-
----
-
-## 📈 **GitHub Stats** 🦸‍♂️
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEMANTHSV31&count_private=true&show_icons=true&hide_title=true&hide=prs&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HEMANTHSV31&hide_title=true&theme=radical)
-
-Feel free to explore my repositories to see the projects I've been working on.
-
----
-
-## 💼 **Connect with Me** 📬
-
-You can reach me through my social networks:
-
-- **[LinkedIn](https://www.linkedin.com/in/hemanth-s-v-2610b0329/)** 🔗
-- **[Twitter](https://twitter.com/your_twitter_handle)** 🐦 (Replace with your Twitter link if you have one)
-- **[Blog](https://your_blog_link.com)** 📖 (Replace with your personal blog link if any)
-
----
-
-## 🧑‍💻 **My Skills** ⚡
-
-Here are some of the technologies and tools I work with:
-
-- **Languages**: 
-  - Java, C++, Python, JavaScript, TypeScript
-- **Frameworks & Libraries**:
-  - React, Node.js, Express.js, Spring Boot, Django
-- **Databases**:
-  - MySQL, PostgreSQL, MongoDB, Firebase
-- **Tools**:
-  - Git, Docker, Kubernetes, AWS, Heroku
-- **Others**:
-  - Competitive Programming, Data Structures & Algorithms, REST APIs, GraphQL
-
----
-
-## 🚀 **Projects & Achievements** 🏆
-
-Here are some of my notable projects and accomplishments:
-
-- **[Project 1 Name](GitHub link)**: Short description of the project (Tech Stack, impact, etc.)
-- **[Project 2 Name](GitHub link)**: Short description of the project (Tech Stack, impact, etc.)
-- **LeetCode Problem Solving**: Solved over 200+ problems with a rating of **XX** on LeetCode.
-- **Hackathons**: Participated in [Hackathon Name](Link), where I won **1st place** in the XYZ category.
-- **Contributions**: Open-source contributions to [Project/Repo](Link).
-
----
-
-## ✨ **Extra Features to Make It WOW** 💥
-
-Here are a few cool features and interactive elements for your profile:
-
-### 🎯 **Wakatime Stats** 📈
-
-![Wakatime Stats](https://wakatime.com/share/@your_wakatime_username/your_wakatime_image_code.svg)
-
-### 🔥 **Streaks & Contributions** 📅
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=HEMANTHSV31&theme=radical)
-
----
-
-## 🌱 **Currently Learning** 📚
-
-I am currently learning:
-
-- **Web3** technologies (Blockchain, Smart Contracts, Ethereum, Solidity)
-- **AI and Machine Learning** (TensorFlow, OpenCV)
-- **Cloud Computing** (AWS, Google Cloud)
-- **Mobile App Development** (React Native)
-
----
-
-## 🎨 **Fun Stats** 🤩
-
-- **Followers**: ![Followers](https://img.shields.io/github/followers/HEMANTHSV31?label=Followers&style=social)
-- **Repositories**: ![Repositories](https://img.shields.io/github/followers/HEMANTHSV31?label=Repositories&style=social)
-- **Commits per Day**: ![Commits](https://img.shields.io/github/commit-activity/m/HEMANTHSV31)
-
----
-
-## 📖 **Latest Blog Posts** ✍️
-
-<!-- You can use this section to show your latest blog posts from your website or dev.to. You can use a service like "dev.to" or "Medium" to automatically populate this list. -->
-
----
-
-## 🤝 **Let's Build Something Together!** 🚀
-
-If you'd like to collaborate or discuss something interesting, feel free to reach out!
-
----
-
-### ⚡ Fun Fact:
-
-- I have a passion for building things that solve real-world problems. In my free time, I contribute to open-source projects and improve my coding skills!
-
----
-
-**Thanks for visiting my profile! Feel free to explore my repositories, check out my work, and connect with me on LinkedIn.** 😊
+✨ Welcome to Hemanth S V's GitHub Profile 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hemanth%20S%20V&fontSize=90" />
+</p>
+<p align="center">
+A passionate developer, competitive programmer, and tech enthusiast from India. Welcome to my digital garden, where I cultivate my coding projects and share my journey in the world of programming.
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/hemanth-s-v-2610b0329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Hemanth-SV/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+<!-- Uncomment and replace with your links if you have them -->
+<!-- <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> -->
+<!-- <a href="https://your_blog_link.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"></a> -->
+</p>
+🚀 My Tech Stack & Tools
+Here are some of the technologies and tools I work with, presented with icons for a better visual experience:
+<p align="center">
+<strong>Languages:</strong><br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
+<p align="center">
+<strong>Frameworks & Libraries:</strong><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+</p>
+<p align="center">
+<strong>Databases:</strong><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+<p align="center">
+<strong>Tools & Platforms:</strong><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+</p>
+📊 My Coding Journey in Numbers
+Here's a snapshot of my coding activities and stats:
+<p align="center">
+<img src="https://leetcode-stats-six.vercel.app/api?username=Hemanth-SV" alt="LeetCode Stats" width="400"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HEMANTHSV31&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMANTHSV31&theme=radical&layout=compact" alt="Top Languages" width="350"/>
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HEMANTHSV31&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+<!-- To add your Wakatime stats, you'll need to set up a public profile on Wakatime and get the embeddable code -->
+<!-- <p align="center">
+<img src="https://wakatime.com/share/@your_wakatime_username/your_wakatime_image_code.svg" alt="Wakatime Stats" width="400"/>
+</p> -->
+🏆 Projects & Achievements
+Here are some of the projects and accomplishments I'm proud of:
+[Project 1 Name](GitHub link): A brief and impactful description of the project, highlighting the problem it solves and the technologies used (e.g., Tech Stack: React, Node.js, MongoDB).
+[Project 2 Name](GitHub link): Another concise description of a key project, its purpose, and its tech stack.
+LeetCode Problem Solving: Solved over 200+ problems, consistently improving my algorithmic and data structure skills.
+Hackathons: Proud winner of 1st place in the XYZ category at Hackathon Name.
+Open Source Contributions: Contributed to Project/Repo, focusing on [mention your contribution area].
+🌱 What I'm Currently Learning
+I'm always eager to learn and expand my skill set. Currently, I'm diving into:
+Web3: Exploring the world of Blockchain, Smart Contracts, Ethereum, and Solidity.
+AI and Machine Learning: Getting hands-on with TensorFlow and OpenCV.
+Cloud Computing: Deepening my knowledge of AWS and Google Cloud Platform.
+Mobile App Development: Building cross-platform apps with React Native.
+✍️ Latest Blog Posts
+<!-- This section can be automated using GitHub Actions to fetch your latest blog posts -->
+<!-- <ul>
+<li><a href="your_blog_post_link">Blog Post Title 1</a></li>
+<li><a href="your_blog_post_link">Blog Post Title 2</a></li>
+</ul> -->
+🤝 Let's Connect and Collaborate!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of something amazing. Feel free to reach out to me!
+<p align="center">
+<em><b>"The best way to predict the future is to create it."</b> - Peter Drucker</em>
+</p>
+<p align="center">
+Thanks for visiting my profile! Have a great day! 😊
+</p>
